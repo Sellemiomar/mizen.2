@@ -1,0 +1,6 @@
+{
+  "name": "Mizen - Tunisian Financing Discovery",
+  "description": "Verified catalog of Tunisian financing programs, intelligent eligibility matching engine, and side-by-side comparison for startups and SMEs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
